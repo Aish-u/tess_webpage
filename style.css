@@ -262,6 +262,18 @@
     -moz-text-fill-color: transparent;
 
 }
+.main__content h2
+{
+    font-size: 2rem;
+    background-color: #ff8177;
+    background-image: linear-gradient(to top, #ff0844 0% #ffb199 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+
+}
 
 
 
@@ -272,6 +284,29 @@
     font-size:2rem;
     font-weight: 700;
     color: #fff
+}
+
+.main__contentAbout h2
+{
+    font-size: 2rem;
+    background-color: #ff8177;
+    background-image: linear-gradient(to top, #ff0844 0% #ffb199 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+
+}
+
+.main__contentAbout p
+
+{
+    margin-top: 0.5rem;
+    font-size:1rem;
+    font-weight: 500;
+    color: #fff;
+
 }
 
 .main__btn 
@@ -335,6 +370,7 @@
     padding: 5px;
     background-color: #141414;
 }
+
 
 
 
